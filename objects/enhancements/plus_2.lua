@@ -1,0 +1,1 @@
+SMODS.Enhancement { key = 'plus_2', atlas = 'UnoEnhancements', pos = { x = 2, y = 0 }, no_rank = true, config = { extra = {} }, loc_vars = function(self, info_queue, card) return { vars = {} } end }

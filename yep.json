@@ -1,0 +1,21 @@
+{
+  "id": "yep",
+  "name": "Yep! UNO",
+  "author": [
+    "Kranlax"
+  ],
+  "description": [
+    "A complete UNO overhaul for Balatro."
+  ],
+  "prefix": "yep",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 99999,
+  "badge_colour": "e52421",
+  "badge_text_colour": "FFFFFF",
+  "dependencies": [
+    "talisman",
+    "Amulet"
+  ],
+  "disable_vanilla": false
+}
